@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-08-21T22:09:50-03:00
-draft: true
+draft: false
 ---
 
 Victor França is a SRE @ [QuintoAndar](https://quintoandar.com.br), a brazilian unicorn startup focused on real estate. For about 3 years, he's been specializing in cloud architecture, DevOps, infrastructure automation and backend development. He enjoys learning about new stuff, and automating every possible tasks. His main interests nowadays are Kubernetes, Kafka, Go, and contributing to open-source. 
