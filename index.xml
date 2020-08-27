@@ -20,5 +20,15 @@
       <description>Hey! This is the first post of my personal blog. Here I will try to write about insights/challenges that I faced while working as a SRE, and about any other cool stuff that may come through my mind. I think it will be a good wayi for me to share experiences, as well improve my technical writing skills. Welcome and enjoy the ride!</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://victorfrancax1.github.io/about/</link>
+      <pubDate>Fri, 21 Aug 2020 22:09:50 -0300</pubDate>
+      
+      <guid>https://victorfrancax1.github.io/about/</guid>
+      <description>Victor França is a SRE @ QuintoAndar, a brazilian unicorn startup focused on real estate. For about 3 years, he&amp;rsquo;s been specializing in cloud architecture, DevOps, infrastructure automation and backend development. He enjoys learning about new stuff, and automating every possible tasks. His main interests nowadays are Kubernetes, Kafka, Go, and contributing to open-source.
+When he&amp;rsquo;s not coding, he likes gaming, looking for cheap computer parts and watching Santos FC&amp;rsquo;s soccer matches.</description>
+    </item>
+    
   </channel>
 </rss>
