@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It&#39;s me!</title>
-    <link>https://victorfrancax1.github.io/vfranc-site/</link>
+    <link>https://victorfrancax1.github.io/</link>
     <description>Recent content on It&#39;s me!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Aug 2020 17:10:54 -0300</lastBuildDate>
     
-	<atom:link href="https://victorfrancax1.github.io/vfranc-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://victorfrancax1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://victorfrancax1.github.io/vfranc-site/posts/hello-world/</link>
+      <link>https://victorfrancax1.github.io/posts/hello-world/</link>
       <pubDate>Thu, 27 Aug 2020 17:10:54 -0300</pubDate>
       
-      <guid>https://victorfrancax1.github.io/vfranc-site/posts/hello-world/</guid>
+      <guid>https://victorfrancax1.github.io/posts/hello-world/</guid>
       <description>Hey! This is the first post of my personal blog. Here I will try to write about insights/challenges that I faced while working as a SRE, and about any other cool stuff that may come through my mind. I think it will be a good wayi for me to share experiences, as well improve my technical writing skills. Welcome and enjoy the ride!</description>
     </item>
     
