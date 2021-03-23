@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It&#39;s me!</title>
+    <link>https://vfrnc.xyz/</link>
+    <description>Recent content on It&#39;s me!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Aug 2020 17:10:54 -0300</lastBuildDate><atom:link href="https://vfrnc.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://vfrnc.xyz/posts/hello-world/</link>
+      <pubDate>Thu, 27 Aug 2020 17:10:54 -0300</pubDate>
+      
+      <guid>https://vfrnc.xyz/posts/hello-world/</guid>
+      <description>Hey! This is the first post of my personal blog. Here I will try to write about insights/challenges that I faced while working as a SRE, and about any other cool stuff that may come through my mind.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vfrnc.xyz/about/</link>
+      <pubDate>Fri, 21 Aug 2020 22:09:50 -0300</pubDate>
+      
+      <guid>https://vfrnc.xyz/about/</guid>
+      <description>Victor França is a SRE @ QuintoAndar, a brazilian unicorn startup focused on real estate. For about 3 years, he&amp;rsquo;s been specializing in cloud architecture, DevOps, infrastructure automation and backend development.</description>
+    </item>
+    
+  </channel>
+</rss>
