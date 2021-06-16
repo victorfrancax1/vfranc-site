@@ -4,7 +4,7 @@ date: 2020-08-21T22:09:50-03:00
 draft: false
 ---
 
-Victor Fran√ßa is a SRE @ [QuintoAndar](https://quintoandar.com.br), a brazilian unicorn startup focused on real estate. For about 3 years, he's been specializing in cloud architecture, DevOps, infrastructure automation and backend development. He enjoys learning about new stuff, and automating every possible tasks. His main interests nowadays are Kubernetes, Kafka, Go, and contributing to open-source. 
+Victor Fran√a is a DevOps Engineer @ [Figment](https://figment.io) , Canada's largest blockchain infrastructure, and is currently helping them build a more decentralized web. For about 4 years, he's been specializing in cloud architecture, DevOps, infrastructure automation and backend development. He enjoys learning about new stuff, and automating every possible tasks. His main interests nowadays are Kubernetes, Blockchain , Go, and contributing to open-source. 
 
 When he's not coding, he likes gaming, looking for cheap computer parts and watching Santos FC's soccer matches.
 
